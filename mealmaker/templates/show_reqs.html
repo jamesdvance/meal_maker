@@ -1,0 +1,18 @@
+
+{% extends 'base.html' %}
+
+{% block title %}Nutrition Display{% endblock %}
+
+{% block content %}
+
+<h1>Your Nutritional Requirements:</h1>
+<ul>
+	<li>Your daily calories: {{reqs.daily_cal}}</li>
+	<li>Your daily protein: {{reqs.daily_protein}}</li>
+	<li>Your daily carbohydrates: {{reqs.daily_carb}}</li>
+	<li>Your daily fat: {{reqs.daily_fat}}</li>
+	<li>Your max daily sugar: {{reqs.daily_sugar}}</li>
+	<li>You want your requirements to be accurate to {{reqs.flex_perc}}</li>
+</ul>
+
+{% endblock %}

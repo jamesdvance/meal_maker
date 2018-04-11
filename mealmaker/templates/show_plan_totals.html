@@ -1,0 +1,17 @@
+
+{% extends 'base.html' %}
+
+{% block title %}Plan Display{% endblock %}
+
+{% block content %}
+
+{% for plan in plans%}
+
+<h1>Plan ID: {{plan.plan_id}}</h1>
+<ul>
+	<li>Total Cals: {{plan.total_cals}}. How does this compare to your goal of {{reqs.daily_cal}}?</li>
+	<li>Total Carbs: {{plan.total_carbs}}</li>
+	<li>Total Protein: {{plan.total_protein}}</li>
+{% endfor %}
+
+{% endblock %}

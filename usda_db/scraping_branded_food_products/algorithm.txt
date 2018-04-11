@@ -1,0 +1,7 @@
+rank -> decile -> sort
+
+search for the difference. 
+
+If not found, add nearest example and search for new difference if none, drop previous, add next. 
+
+After 10 tries, keep old one and add another

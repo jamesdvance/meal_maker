@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}Ingredient Input{% endblock %}
+
+{% block content %}
+
+<form action="/plan/add_ingredients" method="post">
+	{% csrf_token %} 
+	{{ form.as_p }}
+<button type="submit">Add Item</button>
+</form>
+	
+{% endblock %}

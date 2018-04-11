@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}Weekly Plan{% endblock %}
+
+{% block content %}
+<form action="/plan/plan_week" method="post">
+	{% csrf_token %} 
+	{{ week_form.as_p }}
+<button type="submit">Add Plan</button>
+</form>
+
+
+{% endblock %}

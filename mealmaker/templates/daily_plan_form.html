@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}Daily Plan{% endblock %}
+
+{% block content %}
+<form action="/plan/add_plan" method="post">
+	{% csrf_token %} 
+	{{ plan_form.as_p }}
+<button type="submit">Add Plan</button>
+</form>
+<div>
+	{% for plan in user_plans %}
+	<ul>
+		{plan.plan_id}}
+	</ul>
+	{% endfor %}
+</div>
+
+{% endblock %}

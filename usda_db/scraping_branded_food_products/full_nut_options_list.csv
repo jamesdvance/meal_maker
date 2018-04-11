@@ -1,0 +1,151 @@
+,0
+0,Select a nutrient
+1,Water (g)
+2,Energy (kcal)
+3,Energy (kJ)
+4,Protein (g)
+5,Total lipid (fat) (g)
+6,Ash (g)
+7,"Carbohydrate, by difference (g)"
+8,"Fiber, total dietary (g)"
+9,"Sugars, total (g)"
+10,Sucrose (g)
+11,Glucose (dextrose) (g)
+12,Fructose (g)
+13,Lactose (g)
+14,Maltose (g)
+15,Galactose (g)
+16,Starch (g)
+17,"Calcium, Ca (mg)"
+18,"Iron, Fe (mg)"
+19,"Magnesium, Mg (mg)"
+20,"Phosphorus, P (mg)"
+21,"Potassium, K (mg)"
+22,"Sodium, Na (mg)"
+23,"Zinc, Zn (mg)"
+24,"Copper, Cu (mg)"
+25,"Manganese, Mn (mg)"
+26,"Selenium, Se (µg)"
+27,"Fluoride, F (µg)"
+28,"Vitamin C, total ascorbic acid (mg)"
+29,Thiamin (mg)
+30,Riboflavin (mg)
+31,Niacin (mg)
+32,Pantothenic acid (mg)
+33,Vitamin B-6 (mg)
+34,"Folate, total (µg)"
+35,Folic acid (µg)
+36,"Folate, food (µg)"
+37,"Folate, DFE (µg)"
+38,"Choline, total (mg)"
+39,Betaine (mg)
+40,Vitamin B-12 (µg)
+41,"Vitamin B-12, added (µg)"
+42,"Vitamin A, RAE (µg)"
+43,Retinol (µg)
+44,"Carotene, beta (µg)"
+45,"Carotene, alpha (µg)"
+46,"Cryptoxanthin, beta (µg)"
+47,"Vitamin A, IU (IU)"
+48,Lycopene (µg)
+49,Lutein + zeaxanthin (µg)
+50,Vitamin E (alpha-tocopherol) (mg)
+51,"Vitamin E, added (mg)"
+52,"Tocopherol, beta (mg)"
+53,"Tocopherol, gamma (mg)"
+54,"Tocopherol, delta (mg)"
+55,"Tocotrienol, alpha (mg)"
+56,"Tocotrienol, beta (mg)"
+57,"Tocotrienol, gamma (mg)"
+58,"Tocotrienol, delta (mg)"
+59,Vitamin D (D2 + D3) (µg)
+60,Vitamin D2 (ergocalciferol) (µg)
+61,Vitamin D3 (cholecalciferol) (µg)
+62,Vitamin D (IU)
+63,Vitamin K (phylloquinone) (µg)
+64,Dihydrophylloquinone (µg)
+65,Menaquinone-4 (µg)
+66,"Fatty acids, total saturated (g)"
+67,4:0 (g)
+68,6:0 (g)
+69,8:0 (g)
+70,10:0 (g)
+71,12:0 (g)
+72,13:0 (g)
+73,14:0 (g)
+74,15:0 (g)
+75,16:0 (g)
+76,17:0 (g)
+77,18:0 (g)
+78,20:0 (g)
+79,22:0 (g)
+80,24:0 (g)
+81,"Fatty acids, total monounsaturated (g)"
+82,14:1 (g)
+83,15:1 (g)
+84,16:1 undifferentiated (g)
+85,16:1 c (g)
+86,16:1 t (g)
+87,17:1 (g)
+88,18:1 undifferentiated (g)
+89,18:1 c (g)
+90,18:1 t (g)
+91,18:1-11 t (18:1t n-7) (g)
+92,20:1 (g)
+93,22:1 undifferentiated (g)
+94,22:1 c (g)
+95,22:1 t (g)
+96,24:1 c (g)
+97,"Fatty acids, total polyunsaturated (g)"
+98,18:2 undifferentiated (g)
+99,"18:2 n-6 c,c (g)"
+100,18:2 CLAs (g)
+101,"18:2 t,t (g)"
+102,18:2 i (g)
+103,18:2 t not further defined (g)
+104,18:3 undifferentiated (g)
+105,"18:3 n-3 c,c,c (ALA) (g)"
+106,"18:3 n-6 c,c,c (g)"
+107,18:3i (g)
+108,18:4 (g)
+109,"20:2 n-6 c,c (g)"
+110,20:3 undifferentiated (g)
+111,20:3 n-3 (g)
+112,20:3 n-6 (g)
+113,20:4 undifferentiated (g)
+114,20:4 n-6 (g)
+115,20:5 n-3 (EPA) (g)
+116,21:5 (g)
+117,22:4 (g)
+118,22:5 n-3 (DPA) (g)
+119,22:6 n-3 (DHA) (g)
+120,"Fatty acids, total trans (g)"
+121,"Fatty acids, total trans-monoenoic (g)"
+122,"Fatty acids, total trans-polyenoic (g)"
+123,Cholesterol (mg)
+124,Phytosterols (mg)
+125,Stigmasterol (mg)
+126,Campesterol (mg)
+127,Beta-sitosterol (mg)
+128,Tryptophan (g)
+129,Threonine (g)
+130,Isoleucine (g)
+131,Leucine (g)
+132,Lysine (g)
+133,Methionine (g)
+134,Cystine (g)
+135,Phenylalanine (g)
+136,Tyrosine (g)
+137,Valine (g)
+138,Arginine (g)
+139,Histidine (g)
+140,Alanine (g)
+141,Aspartic acid (g)
+142,Glutamic acid (g)
+143,Glycine (g)
+144,Proline (g)
+145,Serine (g)
+146,Hydroxyproline (g)
+147,"Alcohol, ethyl (g)"
+148,Caffeine (mg)
+149,Theobromine (mg)

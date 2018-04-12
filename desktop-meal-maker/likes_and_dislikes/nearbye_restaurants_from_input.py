@@ -4,6 +4,10 @@ from titlecase import titlecase
 from googlesearch import search
 from urllib.parse import urlparse
 
+from googleplaces import GooglePlaces, types, lang
+import pandas as pd
+import requests
+
 def return_all_relevant(query_list):
 
 	for query in query_list:
@@ -27,6 +31,6 @@ def restaurants_nearby(search_results, rest_list):
     for choice in all_restaurants:
         if fuzz.token_set_ratio(rem, choice) >85:
             my_rests.append(choice)
-
+    
 
     return nearby_list

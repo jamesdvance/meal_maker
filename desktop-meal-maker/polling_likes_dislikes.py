@@ -16,7 +16,7 @@ def poll_raw_ingred():
         print(item)
         ans = int(input("Is this the food you were looking for: "+item+" ? (1/0)"))
         if ans == 1:
-            return ingred
+            return item
         else:
             pass
     
@@ -43,16 +43,16 @@ def poll_restaurants_nearbye():
         pagetoken = None,
         location = add,
         lat_lng = {'lat':lat,'lng':lon},
-        radius = 300,
+        radius = 100,
         keyword = 'restaurant',
         rankby = 'distance',
         type=['restaurant']
     )
     rests = list(map(lambda x: x.name, result.places))
-    if result.has_next_page_token:
+    while result.has_next_page_token:
         time.sleep(10)
-        result_next_page = google_places.nearby_search(pagetoken=result.next_page_token,lat_lng = {'lat':lat,'lng':lon},)
-        rests2 = list(map(lambda x: x.name, result_next_page.places))
+        result = google_places.nearby_search(pagetoken=result.next_page_token,lat_lng = {'lat':lat,'lng':lon},)
+        rests2 = list(map(lambda x: x.name, result.places))
     # Match with restaurants inside dataset - but then will have to 
     rests = rests + rests2
     kept_rests = process_liked_restaurants(rests)

@@ -23,6 +23,36 @@ def poll_raw_ingred():
     print("Sorry, not found")
     return None
 
+def poll_include():
+    import warnings
+    warnings.filterwarnings('ignore')
+    import pandas as pd 
+    from fuzzywuzzy import fuzz
+
+    nut_sm = pd.read_csv('C:/Users/J/Desktop/Businesses/Meal_Maker/Scraped_Data/combined_nutrition_small/nutrition_sm_2018_3_15_processed_comma.csv', encoding='ISO-8859-1')
+    fd_types = nut_sm['food_type_grp'].unique()
+    fd_type = input("What type of food would you like to add? [raw ingredient, grocery, recipe, restaurant]?")
+    while fd_type not in fd_types:
+        fd_type= input("Sorry, that didn't match my options. What type of food would you like to add? [raw ingredient, grocery, recipe, restaurant]")
+    
+    raw_df = nut_sm[nut_sm.food_type_grp==fd_type]
+    raw_ingred = input("Tell me a raw ingredient you want to eat this week: ")
+    raw_df['ratios'] = raw_df['food_description'].map(lambda x: fuzz.ratio(x, raw_ingred))
+    raw_df = raw_df.sort(['ratios'], ascending=False)
+
+    raw_list = raw_df['food_description'].iloc[0:5]
+
+    for item in raw_list:
+        print(item)
+        ans = int(input("Is this the food you were looking for: "+item+" ? (1/0)"))
+        if ans == 1:
+            return item
+        else:
+            pass
+    
+    print("Sorry, not found")
+    return None
+
 def poll_restaurants_nearbye():
     from googleplaces import GooglePlaces, types, lang
     import pandas as pd

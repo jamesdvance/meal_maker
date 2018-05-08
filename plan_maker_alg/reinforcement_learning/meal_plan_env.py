@@ -5,13 +5,14 @@ import numpy as np
 
 class DayPlan():
     
-    def __init__(self):
+    def __init__(self, sp_df):
         # Nutrition DataFrame
-        self.df = pd.read_csv('C:/Users/J/Desktop/Businesses/Meal_Maker/Scraped_Data/combined_nutrition_small/nutrition_sm_processed_ss.csv',dtype = {'food_key':int,'ingredients_list':object}, encoding='ISO-8859-1')
-        self.df = self.df.fillna(0)
+        self.df =   sp_df
         self.plan_df = pd.DataFrame(columns=self.df.columns.values)
         self.s=0
         self.r=0
+        self.action_space = np.zeros(len(self.df))
+
 
     # Short  & Long Term Payoff
     def set_num_reqs(self, num_reqs_df):
@@ -20,6 +21,11 @@ class DayPlan():
         self.req_mat = num_reqs_df[['fiber_g','calcium_mg','iron_mg','vit_a_mcg','vit_c_mg']].as_matrix()
         self.thr_mat= num_reqs_df[['saturated_fat_g', 'sodium_mg','cholesterol_mg']].as_matrix()
         self.req_names = num_reqs_df.columns.values
+
+    # random action
+    def rand_action(self):
+        i = np.random.choice(range(len(pl.df)))
+        return i
     
     def reset(self):
         self.plan_df = pd.DataFrame(columns=self.df.columns.values)
@@ -39,15 +45,15 @@ class DayPlan():
         a =0
         if (sum(self.plan_df['calories']) > (self.cal_req - 75)) and (sum(self.plan_df['calories']) < (self.cal_req+75)):
             d = True
-            if self.s < 3:
+            if self.s < 2: # only for test plan
                 a-=100               
             else:
                 a +=1000 # Successful meal plan 
         elif sum(self.plan_df['calories']) > (self.cal_req+75):
             d = True
             a -=100
-        # Plan can include no more than 15 foods
-        elif self.s > 14:
+        # Plan can include no more than 3 foods for this example
+        elif self.s > 2:
             d = True
 
         else: 

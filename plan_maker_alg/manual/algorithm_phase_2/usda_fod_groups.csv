@@ -1,0 +1,870 @@
+Food,Group,Subgroup
+"Apples, cooked or canned",Fruit,Whole Fruit
+"Applesauce, canned, unsweetened, without vitamin C",Fruit,Whole Fruit
+"Apples, dried",Fruit,Whole Fruit
+"Apple, dried, sulfured, uncooked",Fruit,Whole Fruit
+"Apples, raw",Fruit,Whole Fruit
+"Apple, raw, with skin",Fruit,Whole Fruit
+Applesauce,Fruit,Whole Fruit
+"Applesauce, canned, unsweetened, without vitamin C",Fruit,Whole Fruit
+"Apricot, cooked or canned",Fruit,Whole Fruit
+"Apricot, canned, water pack",Fruit,Whole Fruit
+"Apricot, dried",Fruit,Whole Fruit
+"Apricot, dried, sulfured, uncooked",Fruit,Whole Fruit
+"Apricot, raw",Fruit,Whole Fruit
+"Apricots, raw",Fruit,Whole Fruit
+"Bananas, cooked or canned (Incl. red)",Fruit,Whole Fruit
+"Bananas, raw",Fruit,Whole Fruit
+"Bananas, dried",Fruit,Whole Fruit
+"Bananas, dehydrated",Fruit,Whole Fruit
+"Bananas, raw (Incl. white, red, Chinese,",Fruit,Whole Fruit
+"Bananas, raw",Fruit,Whole Fruit
+"Blackberries, cooked or canned",Fruit,Whole Fruit
+"Blackberries, raw",Fruit,Whole Fruit
+"Blackberries, raw",Fruit,Whole Fruit
+"Blackberries, raw",Fruit,Whole Fruit
+"Blueberries, cooked or canned",Fruit,Whole Fruit
+"Blueberries, raw",Fruit,Whole Fruit
+"Blueberries, dried",Fruit,Whole Fruit
+"Blueberries, raw",Fruit,Whole Fruit
+"Blueberries, raw",Fruit,Whole Fruit
+"Blueberries, raw",Fruit,Whole Fruit
+"Boysenberries, raw",Fruit,Whole Fruit
+"Boysenberries, frozen, unsweetened",Fruit,Whole Fruit
+"Cantaloupe, raw",Fruit,Whole Fruit
+"Melons, cantaloupe, raw",Fruit,Whole Fruit
+"Casaba Melon, raw",Fruit,Whole Fruit
+"Melons, casaba, raw",Fruit,Whole Fruit
+"Cherries, cooked or canned (Incl.",Fruit,Whole Fruit
+"Cherries, sour, red, canned, water pack",Fruit,Whole Fruit
+"maraschino) Cherries, raw",Fruit,Whole Fruit
+"Cherries, sweet, raw",Fruit,Whole Fruit
+"Cranberries, cooked or canned",Fruit,Whole Fruit
+"Cranberry sauce, canned, sweetened",Fruit,Whole Fruit
+"Cranberries, dried",Fruit,Whole Fruit
+"Cranberries, dried, sweetened",Fruit,Whole Fruit
+"Cranberries, raw",Fruit,Whole Fruit
+"Cranberries, raw",Fruit,Whole Fruit
+"Dates, raw and cooked",Fruit,Whole Fruit
+"Dates, deglet noor",Fruit,Whole Fruit
+"Dewberries, raw",Fruit,Whole Fruit
+"Blackberries, raw",Fruit,Whole Fruit
+"Figs, cooked or canned",Fruit,Whole Fruit
+"Figs, canned, water pack",Fruit,Whole Fruit
+"Figs, dried",Fruit,Whole Fruit
+"Figs, dried, uncooked",Fruit,Whole Fruit
+"Figs, raw",Fruit,Whole Fruit
+"Figs, raw",Fruit,Whole Fruit
+"Grapefruit, cooked or canned",Fruit,Whole Fruit
+"Grapefruit sections, canned, water pack",Fruit,Whole Fruit
+"Grapefruit, raw",Fruit,Whole Fruit
+"Grapefruit, raw, pink, red, and white",Fruit,Whole Fruit
+"Grapes, cooked or canned",Fruit,Whole Fruit
+"Grapes, canned, Thompson seedless, water pack",Fruit,Whole Fruit
+"Grapes, raw",Fruit,Whole Fruit
+"Grapes, red/green (European type), raw",Fruit,Whole Fruit
+"Guava, cooked or canned",Fruit,Whole Fruit
+"Guavas, common, raw",Fruit,Whole Fruit
+"Guava, raw",Fruit,Whole Fruit
+"Guavas, common, raw",Fruit,Whole Fruit
+"Honeydew Melon, raw",Fruit,Whole Fruit
+"Melons, honeydew, raw",Fruit,Whole Fruit
+"Huckleberries, raw",Fruit,Whole Fruit
+"Huckleberries, raw",Fruit,Whole Fruit
+"Japanese Pears, raw",Fruit,Whole Fruit
+"Pears, asian, raw",Fruit,Whole Fruit
+"Juneberry, raw",Fruit,Whole Fruit
+"Blackberries, raw",Fruit,Whole Fruit
+"Kiwifruit, raw",Fruit,Whole Fruit
+"Kiwifruit, green, raw",Fruit,Whole Fruit
+"Kumquat, cooked or canned",Fruit,Whole Fruit
+"Kumquats, raw",Fruit,Whole Fruit
+"Kumquat, raw",Fruit,Whole Fruit
+"Kumquats, raw",Fruit,Whole Fruit
+"Lemons, raw or cooked (Incl. lemon peel",Fruit,Whole Fruit
+"Lemons, raw, without peel",Fruit,Whole Fruit
+"Lime, raw (Incl. calamondin)",Fruit,Whole Fruit
+"Limes, raw",Fruit,Whole Fruit
+Subgroup and Item Clusters,Fruit,Whole Fruit
+group subgroup,Fruit,Whole Fruit
+Representative Food (used to represent nutrient value,Fruit,Whole Fruit
+of the item cluster),Fruit,Whole Fruit
+Item,Fruit,Whole Fruit
+"Loganberries, raw",Fruit,Whole Fruit
+"Loganberries, frozen",Fruit,Whole Fruit
+"Lychee, cooked or canned",Fruit,Whole Fruit
+"Litchis, raw",Fruit,Whole Fruit
+"Lychee, raw",Fruit,Whole Fruit
+"Litchis, raw",Fruit,Whole Fruit
+"Lychee, dried",Fruit,Whole Fruit
+"Litchis, dried",Fruit,Whole Fruit
+"Mango, cooked or canned",Fruit,Whole Fruit
+"Mangos, raw",Fruit,Whole Fruit
+"Mango, dried",Fruit,Whole Fruit
+"Mangos, raw",Fruit,Whole Fruit
+"Mango, raw",Fruit,Whole Fruit
+"Mangos, raw",Fruit,Whole Fruit
+Mixed Other Fruit (NOT citrus),Fruit,Whole Fruit
+"Applesauce, canned, unsweetened, without vitamin C",Fruit,Whole Fruit
+"Mulberries, raw",Fruit,Whole Fruit
+"Mulberries, raw",Fruit,Whole Fruit
+"Nectarine, cooked or canned",Fruit,Whole Fruit
+"Peaches, canned, water pack",Fruit,Whole Fruit
+"Nectarine, raw",Fruit,Whole Fruit
+"Nectarines, raw",Fruit,Whole Fruit
+"Oranges, cooked or canned",Fruit,Whole Fruit
+"Tangerines, mandarin oranges, canned , juice pack",Fruit,Whole Fruit
+"Oranges, raw (Incl. orange peel)",Fruit,Whole Fruit
+"Oranges, raw, all varieties",Fruit,Whole Fruit
+"Papaya, cooked or canned (Incl. green)",Fruit,Whole Fruit
+"Papayas, raw",Fruit,Whole Fruit
+"Papaya, dried",Fruit,Whole Fruit
+"Papayas, raw",Fruit,Whole Fruit
+"Papaya, raw",Fruit,Whole Fruit
+"Papayas, raw",Fruit,Whole Fruit
+"Passion Fruit, raw",Fruit,Whole Fruit
+"Passion-fruit, (granadilla), purple, raw",Fruit,Whole Fruit
+"Peaches, cooked or canned",Fruit,Whole Fruit
+"Peaches, canned, water pack",Fruit,Whole Fruit
+"Peaches, dried",Fruit,Whole Fruit
+"Peach, dried, sulfured, uncooked",Fruit,Whole Fruit
+"Peaches, raw",Fruit,Whole Fruit
+"Peaches, raw",Fruit,Whole Fruit
+"Pears, cooked or canned",Fruit,Whole Fruit
+"Pears, canned, water pack",Fruit,Whole Fruit
+"Pears, dried",Fruit,Whole Fruit
+"Pears, dried, sulfured, uncooked",Fruit,Whole Fruit
+"Pears, raw",Fruit,Whole Fruit
+"Pears, raw",Fruit,Whole Fruit
+"Persimmons, raw",Fruit,Whole Fruit
+"Persimmons, native, raw",Fruit,Whole Fruit
+"Pineapple, cooked or canned",Fruit,Whole Fruit
+"Pineapples, canned, water pack",Fruit,Whole Fruit
+"Pineapple, dried",Fruit,Whole Fruit
+"Pineapples, raw, all varieties",Fruit,Whole Fruit
+"Pineapple, raw",Fruit,Whole Fruit
+"Pineapples, raw, all varieties",Fruit,Whole Fruit
+"Plums, dried (include dried prunes)",Fruit,Whole Fruit
+"Plums, dried (prunes), uncooked",Fruit,Whole Fruit
+"Plums, raw",Fruit,Whole Fruit
+"Plums, raw",Fruit,Whole Fruit
+"Plums/Prunes, cooked or canned",Fruit,Whole Fruit
+"Plums, canned, purple, water pack",Fruit,Whole Fruit
+"Pomegranate, raw",Fruit,Whole Fruit
+"Pomegranates, raw",Fruit,Whole Fruit
+"Raisins, cooked or canned",Fruit,Whole Fruit
+"Raisins, seedless",Fruit,Whole Fruit
+"Raisins, raw (Incl. raw & dried currants)",Fruit,Whole Fruit
+"Raisins, seedless",Fruit,Whole Fruit
+"Raspberries, cooked or canned",Fruit,Whole Fruit
+"Raspberries, raw",Fruit,Whole Fruit
+"Raspberries, raw (incl. black & red)",Fruit,Whole Fruit
+"Raspberries, raw",Fruit,Whole Fruit
+"Rhubarb, cooked or canned",Fruit,Whole Fruit
+"Rhubarb, raw",Fruit,Whole Fruit
+"Rhubarb, raw",Fruit,Whole Fruit
+"Rhubarb, raw",Fruit,Whole Fruit
+"Star Fruit (Carambola), cooked",Fruit,Whole Fruit
+"Carambola (starfruit), raw",Fruit,Whole Fruit
+"Star Fruit (Carambola), raw",Fruit,Whole Fruit
+"Carambola (starfruit), raw",Fruit,Whole Fruit
+"Strawberries, cooked, canned, dried",Fruit,Whole Fruit
+"Strawberries, frozen, unsweetened",Fruit,Whole Fruit
+"Strawberries, raw",Fruit,Whole Fruit
+"Strawberries, raw",Fruit,Whole Fruit
+"Tamarind, dried",Fruit,Whole Fruit
+"Tamarinds, raw",Fruit,Whole Fruit
+"Tamarind, raw or cooked",Fruit,Whole Fruit
+"Tamarinds, raw",Fruit,Whole Fruit
+"Tangerine, raw or canned/cooked",Fruit,Whole Fruit
+"Tangerines (mandarin oranges), raw",Fruit,Whole Fruit
+Unknown Citrus Fruit,Fruit,Whole Fruit
+"Strawberries,raw",Fruit,Whole Fruit
+Unknown Other Fruit,Fruit,Whole Fruit
+"Applesauce, canned, unsweetened, without vitamin C",Fruit,Whole Fruit
+"Watermelon, raw",Fruit,Whole Fruit
+"Watermelon, raw",Fruit,Whole Fruit
+"Youngberries, raw",Fruit,Whole Fruit
+"Blackberries, raw",Fruit,Whole Fruit
+Apple Juice,Fruit,Fruit Juice
+"Apple juice, canned/bottled, unsweetened, without",Fruit,Fruit Juice
+Apricot Juice/Nectar,Fruit,Fruit Juice
+"Apricot nectar, canned, without vitamin C",Fruit,Fruit Juice
+Banana Juice/Nectar,Fruit,Fruit Juice
+Blackberry Juice,Fruit,Fruit Juice
+"Blackberry juice, canned",Fruit,Fruit Juice
+Cantaloupe Juice/Nectar,Fruit,Fruit Juice
+Cherry Juice,Fruit,Fruit Juice
+Cranberry Juice,Fruit,Fruit Juice
+"Cranberry juice,unsweetened",Fruit,Fruit Juice
+Grape Juice,Fruit,Fruit Juice
+"Grape juice, canned, unsweetened, without vitamin C",Fruit,Fruit Juice
+Grapefruit Juice,Fruit,Fruit Juice
+"Grapefruit juice, white, canned, unsweetened",Fruit,Fruit Juice
+Guava Juice/Nectar,Fruit,Fruit Juice
+"Guava nectar, canned",Fruit,Fruit Juice
+Lemon Juice,Fruit,Fruit Juice
+"Lemon juice, canned or bottled",Fruit,Fruit Juice
+Lime Juice,Fruit,Fruit Juice
+"Lime juice, canned or bottled, unsweetened",Fruit,Fruit Juice
+Mango Juice/Nectar,Fruit,Fruit Juice
+"Mango nectar, canned",Fruit,Fruit Juice
+Mixed Fruit Juice (Citrus),Fruit,Fruit Juice
+"Orange juice, chilled, including from concentrate",Fruit,Fruit Juice
+Mixed Fruit Juice (NOT citrus),Fruit,Fruit Juice
+"Apple juice, canned/bottled, unsweetened, without",Fruit,Fruit Juice
+Orange Juice (Incl. tangerine & acerola),Fruit,Fruit Juice
+"Orange juice, chilled, including from concentrate",Fruit,Fruit Juice
+Papaya Juice/Nectar,Fruit,Fruit Juice
+"Papaya nectar, canned",Fruit,Fruit Juice
+Passion Fruit Juice/Nectar,Fruit,Fruit Juice
+"Passion fruit juice, yellow, raw",Fruit,Fruit Juice
+Peach Juice/Nectar,Fruit,Fruit Juice
+"Peach nectar, canned, without vitamin C",Fruit,Fruit Juice
+Pear Juice/Nectar,Fruit,Fruit Juice
+"Baby food, juice, pear",Fruit,Fruit Juice
+Pineapple Juice,Fruit,Fruit Juice
+"Pineapple juice, canned, unsweetened, without vitamin C",Fruit,Fruit Juice
+Plum Juice,Fruit,Fruit Juice
+"Prune juice, canned",Fruit,Fruit Juice
+Pomegranate Juice,Fruit,Fruit Juice
+"Pomegranate juice, bottled",Fruit,Fruit Juice
+Prune Juice,Fruit,Fruit Juice
+"Prune juice, canned",Fruit,Fruit Juice
+Raspberry Juice,Fruit,Fruit Juice
+"Blackberry juice, canned",Fruit,Fruit Juice
+Soursop Juice/Nectar,Fruit,Fruit Juice
+"Guanabana nectar, canned",Fruit,Fruit Juice
+Strawberry Juice,Fruit,Fruit Juice
+"Blackberry juice, canned",Fruit,Fruit Juice
+Unknown Citrus Fruit Juice,Fruit,Fruit Juice
+"Orange juice, chilled, including from concentrate",Fruit,Fruit Juice
+Unknown Other Fruit Juice,Fruit,Fruit Juice
+"Apple juice, canned/bottled, unsweetened, without",Fruit,Fruit Juice
+Watermelon Juice,Fruit,Fruit Juice
+Arugula Lettuce,Vegetables,Dark Green Vegetables
+"Arugula, raw",Vegetables,Dark Green Vegetables
+Bak Choy (Chinese Cabbage),Vegetables,Dark Green Vegetables
+"Cabbage, Chinese (pak-choi), cooked, without salt",Vegetables,Dark Green Vegetables
+"Broccoli, cooked",Vegetables,Dark Green Vegetables
+"Broccoli, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+"Broccoli, raw",Vegetables,Dark Green Vegetables
+"Broccoli, raw",Vegetables,Dark Green Vegetables
+"Butterhead Lettuce (Boston, Bibb)",Vegetables,Dark Green Vegetables
+"Lettuce, butterhead (Bibb and Boston), raw",Vegetables,Dark Green Vegetables
+"Chard, cooked (Incl. cooked escarole)",Vegetables,Dark Green Vegetables
+"Chard, swiss, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+"Cilantro, raw and ckd",Vegetables,Dark Green Vegetables
+"Coriander leaves (Cilantro), raw",Vegetables,Dark Green Vegetables
+Collard Greens,Vegetables,Dark Green Vegetables
+"Collards, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+Grape Leaves,Vegetables,Dark Green Vegetables
+"Grape leaves, raw",Vegetables,Dark Green Vegetables
+"Kale (Incl. lambsquarters, mustard",Vegetables,Dark Green Vegetables
+"cabbage, beet greens, bitter melon, horseradish, and jute leaves)",Vegetables,Dark Green Vegetables
+"Kale, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+"Mixed Dark Leafy Greens, raw (incl.",Vegetables,Dark Green Vegetables
+"Romaine, Chicory, Escarole, and Endive)",Vegetables,Dark Green Vegetables
+"Lettuce, cos or romaine, raw",Vegetables,Dark Green Vegetables
+Mustard Greens (Incl. dandelion and poke greens),Vegetables,Dark Green Vegetables
+"Mustard greens, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+Parsley (Incl. epazote),Vegetables,Dark Green Vegetables
+"Parsley, raw",Vegetables,Dark Green Vegetables
+"Seaweed (Laver), high in Vit. A",Vegetables,Dark Green Vegetables
+"Seaweed, laver, raw",Vegetables,Dark Green Vegetables
+"Spinach, cooked (Incl. taro leaves)",Vegetables,Dark Green Vegetables
+"Spinach, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+"Spinach, raw",Vegetables,Dark Green Vegetables
+"Spinach, raw",Vegetables,Dark Green Vegetables
+Turnip Greens,Vegetables,Dark Green Vegetables
+"Turnip greens, cooked, boiled, without salt",Vegetables,Dark Green Vegetables
+Unknown dark green veg.,Vegetables,Dark Green Vegetables
+"Parsley, raw",Vegetables,Dark Green Vegetables
+Watercress (Incl. thistle leaves),Vegetables,Dark Green Vegetables
+"Watercress, raw",Vegetables,Dark Green Vegetables
+Black beans,Vegetables,Legumes
+"Beans, black, cooked, boiled, without salt",Vegetables,Legumes
+Chickpeas,Vegetables,Legumes
+"Chickpeas, cooked, boiled, without salt",Vegetables,Legumes
+Cowpeas,Vegetables,Legumes
+"Cowpeas, common, cooked, boiled, without salt",Vegetables,Legumes
+Kidney Beans,Vegetables,Legumes
+"Beans, kidney, cooked, boiled, without salt",Vegetables,Legumes
+Lentils,Vegetables,Legumes
+"Lentils, cooked, boiled, without salt",Vegetables,Legumes
+"Lima beans, mature (Incl. fava and",Vegetables,Legumes
+mung beans),Vegetables,Legumes
+"Lima beans, large, cooked, boiled, without salt",Vegetables,Legumes
+Pinto beans (Incl. pink beans),Vegetables,Legumes
+"Beans, pinto, cooked, boiled, without salt",Vegetables,Legumes
+Soybeans/Edamame,Vegetables,Legumes
+"Soybeans, mature cooked, boiled, without salt",Vegetables,Legumes
+Split Peas,Vegetables,Legumes
+"Peas, split, cooked, boiled, without salt",Vegetables,Legumes
+Unknown legume,Vegetables,Legumes
+"Beans, small white, cooked, boiled, without salt",Vegetables,Legumes
+White beans (Incl. navy and pea beans),Vegetables,Legumes
+"Beans, small white, cooked, boiled, without salt",Vegetables,Legumes
+Carrot Juice,Vegetables,Red and Orange Vegetables
+"Carrot juice, canned",Vegetables,Red and Orange Vegetables
+"Carrots, cooked",Vegetables,Red and Orange Vegetables
+"Carrots, cooked, boiled, drained, without salt",Vegetables,Red and Orange Vegetables
+"Carrots, raw",Vegetables,Red and Orange Vegetables
+"Carrots, raw",Vegetables,Red and Orange Vegetables
+"Chili Pepper, hot, red, (Incl. color NS)",Vegetables,Red and Orange Vegetables
+"Peppers, hot chili, red, raw",Vegetables,Red and Orange Vegetables
+Ckd Sweet Potatoes/orange yams,Vegetables,Red and Orange Vegetables
+"Sweet potato, cooked, baked in skin, without salt",Vegetables,Red and Orange Vegetables
+Ckd Winter Squash,Vegetables,Red and Orange Vegetables
+"Squash, winter, all varieties, baked, without salt",Vegetables,Red and Orange Vegetables
+Pumpkin,Vegetables,Red and Orange Vegetables
+"Pumpkin, canned, without salt",Vegetables,Red and Orange Vegetables
+"Red Peppers, sweet, bell (Incl.",Vegetables,Red and Orange Vegetables
+"Peppers, sweet, red, cooked, boiled, without salt",Vegetables,Red and Orange Vegetables
+Tomato Juice,Vegetables,Red and Orange Vegetables
+"Tomato juice, canned, without salt added",Vegetables,Red and Orange Vegetables
+"Tomatoes, cooked",Vegetables,Red and Orange Vegetables
+"Tomatoes, canned, puree, without salt added",Vegetables,Red and Orange Vegetables
+"Tomatoes, raw",Vegetables,Red and Orange Vegetables
+"Tomatoes, red, ripe, raw",Vegetables,Red and Orange Vegetables
+Unknown red/orange veg.,Vegetables,Red and Orange Vegetables
+"Carrots, cooked, boiled, without salt",Vegetables,Red and Orange Vegetables
+"Cassava (Incl. taro, burdock root, and",Vegetables,Starchy Vegetables
+white yam),Vegetables,Starchy Vegetables
+"Cassava, raw",Vegetables,Starchy Vegetables
+"Corn, white (Incl. hominy)",Vegetables,Starchy Vegetables
+"Corn, sweet, white, cooked, boiled, without salt",Vegetables,Starchy Vegetables
+"Corn, yellow",Vegetables,Starchy Vegetables
+"Corn, sweet, yellow, cooked, boiled, without salt",Vegetables,Starchy Vegetables
+"Cowpeas, Field Peas, Blackeye Peas, not",Vegetables,Starchy Vegetables
+dried (Incl. pigeon peas),Vegetables,Starchy Vegetables
+"Cowpeas, immature, cooked, boiled, without salt",Vegetables,Starchy Vegetables
+French Fries,Vegetables,Starchy Vegetables
+"Potatoes, french fried, frozen, without salt, oven heated",Vegetables,Starchy Vegetables
+Green Peas,Vegetables,Starchy Vegetables
+"Peas, green, cooked, boiled, without salt",Vegetables,Starchy Vegetables
+Home Fries/Hash Browns,Vegetables,Starchy Vegetables
+"Potatoes, hashed brown, frozen, plain, prepared",Vegetables,Starchy Vegetables
+"Lima Beans, immature",Vegetables,Starchy Vegetables
+"Lima beans, immature, cooked, boiled, without salt",Vegetables,Starchy Vegetables
+Plantains,Vegetables,Starchy Vegetables
+"Plantains, cooked",Vegetables,Starchy Vegetables
+Potato Chips/Puffs/Sticks,Vegetables,Starchy Vegetables
+"Potato chips, fat free, salted",Vegetables,Starchy Vegetables
+"Potatoes, baked",Vegetables,Starchy Vegetables
+"Potatoes, white, flesh and skin, baked",Vegetables,Starchy Vegetables
+"Potatoes, boiled (Incl. breadfruit)",Vegetables,Starchy Vegetables
+"Potatoes, boiled, flesh, cooked without skin or salt",Vegetables,Starchy Vegetables
+Vegetable starches,Vegetables,Starchy Vegetables
+Potato Flour,Vegetables,Starchy Vegetables
+Waterchestnuts (Incl. lotus root),Vegetables,Starchy Vegetables
+"Waterchestnuts, chinese, canned",Vegetables,Starchy Vegetables
+Artichoke,Vegetables,Other Vegetables
+"Artichokes, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Asparagus,Vegetables,Other Vegetables
+"Asparagus, cooked, boiled, drained",Vegetables,Other Vegetables
+Avocado,Vegetables,Other Vegetables
+"Avocados, raw, all commercial varieties",Vegetables,Other Vegetables
+Bamboo Shoots,Vegetables,Other Vegetables
+"Bamboo shoots, cooked, drained, without salt",Vegetables,Other Vegetables
+Beets,Vegetables,Other Vegetables
+"Beets, cooked, boiled, drained",Vegetables,Other Vegetables
+Brussels Sprouts,Vegetables,Other Vegetables
+"Brussels sprouts, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Cactus (Nopales),Vegetables,Other Vegetables
+"Nopales, cooked, without salt",Vegetables,Other Vegetables
+Cauliflower (Incl. broccoflower),Vegetables,Other Vegetables
+"Cauliflower, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+"Celery, cooked",Vegetables,Other Vegetables
+"Celery, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+"Celery, raw",Vegetables,Other Vegetables
+"Celery, raw",Vegetables,Other Vegetables
+"Chili Pepper, hot, green, ckd and raw",Vegetables,Other Vegetables
+"Peppers, hot chili, green, raw",Vegetables,Other Vegetables
+Chives,Vegetables,Other Vegetables
+"Chives, raw",Vegetables,Other Vegetables
+"Cucumber (Incl. flowers of sesbania,",Vegetables,Other Vegetables
+"squash, lily, pumpkin)",Vegetables,Other Vegetables
+"Cucumber, peeled,raw",Vegetables,Other Vegetables
+Cucumber Pickles (Incl. relish and,Vegetables,Other Vegetables
+capers),Vegetables,Other Vegetables
+"Pickles, cucumber, dill, low sodium",Vegetables,Other Vegetables
+"Edible-pod Green Peas (Incl. snowpeas,",Vegetables,Other Vegetables
+fern shoots),Vegetables,Other Vegetables
+"Peas, edible-podded, boiled, drained, without salt",Vegetables,Other Vegetables
+Eggplant (Incl. hearts of palm),Vegetables,Other Vegetables
+"Eggplant, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Garlic,Vegetables,Other Vegetables
+"Garlic, raw",Vegetables,Other Vegetables
+Green Beans (Incl. snap and yellow,Vegetables,Other Vegetables
+beans),Vegetables,Other Vegetables
+"Beans, snap, green, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+"Green Cabbage, cooked",Vegetables,Other Vegetables
+"Cabbage, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+"Green Cabbage, raw (Incl. savoy",Vegetables,Other Vegetables
+cabbage),Vegetables,Other Vegetables
+"Cabbage, raw",Vegetables,Other Vegetables
+"Green Peppers, cooked, sweet, bell",Vegetables,Other Vegetables
+"Peppers, sweet, green, cooked, boiled, drained, without",Vegetables,Other Vegetables
+"Green Peppers, raw, sweet, bell (Incl.",Vegetables,Other Vegetables
+color NS),Vegetables,Other Vegetables
+"Pepper, sweet, green, raw",Vegetables,Other Vegetables
+Horseradish (Incl. ginger root),Vegetables,Other Vegetables
+Horseradish,Vegetables,Other Vegetables
+Lettuce (Incl. Iceberg),Vegetables,Other Vegetables
+"Lettuce, iceberg, raw",Vegetables,Other Vegetables
+Miscellaneous Other Vegetables,Vegetables,Other Vegetables
+"Seaweed, wakame, raw",Vegetables,Other Vegetables
+Mungbeans Sprouts (Incl. alfalfa and,Vegetables,Other Vegetables
+buckwheat sprouts),Vegetables,Other Vegetables
+"Mung beans, mature seeds, sprouted, cooked, boiled,",Vegetables,Other Vegetables
+"drained, without salt",Vegetables,Other Vegetables
+Mushrooms (Incl. shiitake),Vegetables,Other Vegetables
+"Mushrooms, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Okra (Incl. horseradish pods),Vegetables,Other Vegetables
+"Okra, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Olives,Vegetables,Other Vegetables
+"Olives, ripe, canned (small-extra large)",Vegetables,Other Vegetables
+"Onions, mature, cooked (includes Leeks)",Vegetables,Other Vegetables
+"Onions, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+"Onions, mature, raw",Vegetables,Other Vegetables
+"Onions, raw",Vegetables,Other Vegetables
+Radishes,Vegetables,Other Vegetables
+"Radish, raw",Vegetables,Other Vegetables
+Red Cabbage (Incl. radicchio),Vegetables,Other Vegetables
+"Cabbage, red, raw",Vegetables,Other Vegetables
+Spring Onions/Scallions,Vegetables,Other Vegetables
+"Onions, spring or scallions (includes tops and bulb), raw",Vegetables,Other Vegetables
+"Summer Squash, yellow and zucchini (Incl. spaghetti squash, chayote, bitter and winter melons)",Vegetables,Other Vegetables
+"Squash, summer, all varieties, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Tomatillos,Vegetables,Other Vegetables
+"Tomatillos, raw",Vegetables,Other Vegetables
+"Turnips (Incl. rutabaga, jicama, kohlrabi,",Vegetables,Other Vegetables
+"celeriac, fennel bulb)",Vegetables,Other Vegetables
+"Turnips, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Unknown other vegetable,Vegetables,Other Vegetables
+"Onions, cooked, boiled, drained, without salt",Vegetables,Other Vegetables
+Brown rice,Grain,Whole Grain
+"Brown rice, long-grain, cooked",Grain,Whole Grain
+Oatmeal and other cooked cereals,Grain,Whole Grain
+"Oats, regular, quick, and instant, unenriched, cooked",Grain,Whole Grain
+Popcorn,Grain,Whole Grain
+"without salt Popcorn, air-popped",Grain,Whole Grain
+Rye bread,Grain,Whole Grain
+"Bread, rye",Grain,Whole Grain
+Snack bars containing whole grains,Grain,Whole Grain
+"Crackers, whole wheat, reduced fat",Grain,Whole Grain
+Whole grain bagels & Eng. muffins,Grain,Whole Grain
+"English muffins, whole-wheat",Grain,Whole Grain
+Whole Grain Corn RTE Cereals,Grain,Whole Grain
+"Cereals ready-to-eat, Kix",Grain,Whole Grain
+Whole grain pasta,Grain,Whole Grain
+"Spaghetti, whole wheat, cooked",Grain,Whole Grain
+Whole grain rolls (not sweet),Grain,Whole Grain
+"Rolls, dinner, whole wheat",Grain,Whole Grain
+"Whole Grains in other foods, incl",Grain,Whole Grain
+"Oats, regular, quick, and instant, unenriched, dry",Grain,Whole Grain
+desserts,Grain,Whole Grain
+Whole Oat RTE cereals,Grain,Whole Grain
+"Cereals ready-to-eat, Cheerios",Grain,Whole Grain
+Whole Wheat Bread,Grain,Whole Grain
+"Bread, whole wheat",Grain,Whole Grain
+Whole wheat crackers,Grain,Whole Grain
+"Crackers, whole wheat, reduced fat",Grain,Whole Grain
+Whole wheat quick bread,Grain,Whole Grain
+"Pancakes, whole-wheat, dry mix, incomplete, prepared",Grain,Whole Grain
+Whole Wheat RTE Cereals,Grain,Whole Grain
+"Cereals,RTE, wheat, shredded, plain, sugar and salt free",Grain,Whole Grain
+Bagels and English Muffins,Grain,Refined Grains
+"Bagels, plain, enriched",Grain,Refined Grains
+Biscuits,Grain,Refined Grains
+"Biscuits, plain or buttermilk, refrigerated dough, lower",Grain,Refined Grains
+"fat, baked",Grain,Refined Grains
+Breadings and Stuffings/Dressings,Grain,Refined Grains
+"Bread, white, commercially prepared",Grain,Refined Grains
+Cooked Cereal,Grain,Refined Grains
+"Cereals, corn grits, white, regular and quick, enriched,",Grain,Refined Grains
+cooked without salt,Grain,Refined Grains
+Corn Tortilla,Grain,Refined Grains
+"Tortillas, ready-to-bake or -fry, corn",Grain,Refined Grains
+Flour Tortilla,Grain,Refined Grains
+"Tortillas, ready-to-bake or -fry, flour",Grain,Refined Grains
+"Flour-based Desserts (cakes, cookies,",Grain,Refined Grains
+"Cookies, animal crackers",Grain,Refined Grains
+etc),Grain,Refined Grains
+French Bread,Grain,Refined Grains
+"Bread, french or vienna",Grain,Refined Grains
+Other Foods Containing Refined Grains,Grain,Refined Grains
+"Rice, white, long-grain, regular, cooked",Grain,Refined Grains
+Pasta and noodles,Grain,Refined Grains
+"Spaghetti, cooked, enriched, without salt",Grain,Refined Grains
+Pie and Pastry Crusts,Grain,Refined Grains
+"Pie crust, standard-type, frozen, ready-to-bake, enriched, baked",Grain,Refined Grains
+Pizza Crust,Grain,Refined Grains
+"Bread, pita, white, enriched",Grain,Refined Grains
+Pretzels and Crackers,Grain,Refined Grains
+"Pretzels, hard, plain, made with enriched flour, unsalted",Grain,Refined Grains
+Quick Breads,Grain,Refined Grains
+"Pancakes, plain, frozen, ready-to-heat",Grain,Refined Grains
+Refined Grain as Thickener,Grain,Refined Grains
+"Wheat flour, white, all-purpose, enriched, bleached",Grain,Refined Grains
+Refined grain RTE Cereal,Grain,Refined Grains
+"Cereals ready-to-eat, Corn Flakes",Grain,Refined Grains
+Snack Bars containing refined grains,Grain,Refined Grains
+"Cookies, animal crackers",Grain,Refined Grains
+White Bread,Grain,Refined Grains
+"Bread, white, commercially prepared",Grain,Refined Grains
+White Rice,Grain,Refined Grains
+"Rice, white, long-grain, regular, cooked",Grain,Refined Grains
+White Rolls and Buns,Grain,Refined Grains
+"Rolls, hamburger or hotdog, plain",Grain,Refined Grains
+"Unflavored cow milks, whole",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Unflavored cow milks, 2%",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Unflavored cow milks, 1%",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Unflavored cow milks, fat-free",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Low lactose, calcium-fortified,",Dairy,Milk
+"acidopholus, buttermilk, goat's milk & imitation milks, whole and NFS",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Low lactose, calcium-fortified, acidopholus, buttermilk, goat's milk & imitation milks, 2%",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Low lactose, calcium-fortified,",Dairy,Milk
+"acidopholus, buttermilk, goat's milk & imitation milks, 1% and fat-free",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Dry & evaporated milks, whole, reduced fat, and NFS",Dairy,Milk
+"Milk, dry, nonfat, instant, added vitamin A and D",Dairy,Milk
+"Dry & evaporated milks, 1% and fat-free",Dairy,Milk
+"Milk, dry, nonfat, instant, added vitamin A and D",Dairy,Milk
+Milk NFS,Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Flavored milks (chocolate, cocoa), whole",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Flavored milks (chocolate, cocoa), 2%",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Flavored milks (chocolate, cocoa), 1%",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Flavored milks (chocolate, cocoa), fat- free",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Flavored milks (chocolate, cocoa), NFS",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Milk in coffee drinks, lattes, etc.",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Skim milk in coffee drinks, lattes, etc.",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Milk shakes, malted milk drinks, fruit- milk drinks/smoothies, fat-free",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Milk shakes, malted milk drinks, fruit- milk drinks/smoothies, NFS",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+Meal supplements/replacements/diet,Dairy,Milk
+drinks,Dairy,Milk
+"Milk, dry, nonfat, instant, added vitamin A and D",Dairy,Milk
+"Milk powder drinks, eggnog, other bev.",Dairy,Milk
+"Milk, dry, nonfat, instant, added vitamin A and D",Dairy,Milk
+Milk in soups,Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Milk in casseroles, lllmixturesbatters,",Dairy,Milk
+"frozen meals, man & other dishes",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+Milk in scrambled eggs/omelets,Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Milk in mashed potatoes, creamed veg.,",Dairy,Milk
+"sauces, gravies, salad dressings",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Milk in puddings custards, desserts, sweetened condensed milk",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+Milk in candies and lllbarsllland cookies,Dairy,Milk
+"Milk, dry, nonfat, instant, added vitamin A and D",Dairy,Milk
+"Milk in bread, baked products, cereals",Dairy,Milk
+"Milk, nonfat, fluid, added vitamin A and D",Dairy,Milk
+"Ice cream, light and fat-free",Dairy,Milk
+"Ice creams, vanilla, fat-free",Dairy,Milk
+"Ice cream, regular and rich",Dairy,Milk
+"Ice creams, vanilla, fat-free",Dairy,Milk
+"Ice cream sundaes, cones,",Dairy,Milk
+"sticks/bars/novelties, light and lowfat",Dairy,Milk
+"Ice creams, vanilla, fat-free",Dairy,Milk
+"Ice cream sundaes, cones, sticks/bars/novelties, regular, rich, NFS",Dairy,Milk
+"Frozen yogurt and sherbet, regular,",Dairy,Yogurt
+"lowfat, fat-free, and NFS",Dairy,Yogurt
+"Frozen yogurts, choc, nonfat milk, sweetened w/o sugar",Dairy,Yogurt
+"Unflavored Yogurts, whole and NFS",Dairy,Yogurt
+"Yogurt, plain, skim milk, 13 grams protein per 8 oz",Dairy,Yogurt
+"Unflavored Yogurts, lowfat",Dairy,Yogurt
+"Yogurt, plain, skim milk, 13 grams protein per 8 oz",Dairy,Yogurt
+"Unflavored Yogurts, fat-free",Dairy,Yogurt
+"Yogurt, plain, skim milk, 13 grams protein per 8 oz",Dairy,Yogurt
+"Flavored Yogurts (caloric sweeteners),",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+"Flavored Yogurts (caloric sweeteners),",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+"Flavored Yogurts (caloric sweeteners),",Dairy,Yogurt
+NFS,Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Flavored Yogurts (low calorie,Dairy,Yogurt
+"sweeteners), fat-free",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Flavored Yogurts (low calorie,Dairy,Yogurt
+"sweeteners), lowfat",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Fruit Yogurts (caloric sweeteners),Dairy,Yogurt
+"incl.yogurt NS, whole",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Fruit Yogurts (caloric sweeteners),Dairy,Yogurt
+"incl.yogurt NS, lowfat",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Fruit Yogurts (caloric sweeteners),Dairy,Yogurt
+"incl.yogurt NS, fat-free",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Fruit Yogurts (caloric sweeteners),Dairy,Yogurt
+"incl.yogurt NS, fat NFS",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+"Fruit Yogurts (low calorie sweeteners),",Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Yogurt in other foods,Dairy,Yogurt
+"Yogurt, vanilla or lemon, nonfat milk, low calorie",Dairy,Yogurt
+"sweetener, fortified with vitamin D",Dairy,Yogurt
+Natural cheeses (incl low sodium,Dairy,Cheese
+"cheeses), regular",Dairy,Cheese
+"Cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+Natural cheeses (incl low sodium,Dairy,Cheese
+"cheeses), reduced-fat",Dairy,Cheese
+"Cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+Natural cheeses (incl low sodium,Dairy,Cheese
+"cheeses), lowfat and fat-free",Dairy,Cheese
+"Cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+Natural cheeses (incl low sodium,Dairy,Cheese
+"cheeses), fat NFS",Dairy,Cheese
+"Cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+"Cottage cheeses, regular",Dairy,Cheese
+"Cheese, cottage, lowfat, (1% milkfat) no sodium added",Dairy,Cheese
+"Cottage cheeses, lowfat and fat NFS",Dairy,Cheese
+"Cheese, cottage, lowfat, (1% milkfat) no sodium added",Dairy,Cheese
+"Processed cheeses (incl low sodium cheeses), regular",Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+Processed cheeses (incl low sodium,Dairy,Cheese
+"cheeses), reduced-fat",Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+Processed cheeses (incl low sodium,Dairy,Cheese
+"cheeses), lowfat and fat-free",Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+"Cheese spreads, dips, sauces, soups",Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+Cheese on sandwiches,Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+"Cheese in grains products, snacks (incl",Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+Cheese in grains products (incl fried,Dairy,Cheese
+"cheese, gnocchi), desserts/sweets, reduced fat, lowfat, nonfat",Dairy,Cheese
+"Cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+Cheese in Mexican dishes,Dairy,Cheese
+"Cheese, Mexican, blend, reduced fat",Dairy,Cheese
+Cheese in egg or meat dishes and frozen,Dairy,Cheese
+"Cheese, Mexican, blend, reduced fat",Dairy,Cheese
+"Cheese on pizza and calzone, regular",Dairy,Cheese
+"cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+"Cheese on pizza and calzone, reduced- fat and lowfat",Dairy,Cheese
+"cheese, mozzarella, nonfat or fat free",Dairy,Cheese
+"Cheese in pasta and Italian dishes,",Dairy,Cheese
+regular and NFS,Dairy,Cheese
+"Cheese, Mexican, blend, reduced fat",Dairy,Cheese
+"Cheese in pasta and Italian dishes,",Dairy,Cheese
+"reduced fat, lowfat, and nonfat",Dairy,Cheese
+"Cheese, Mexican, blend, reduced fat",Dairy,Cheese
+"Cheese on vegetables (cheese sauce), in",Dairy,Cheese
+salads & dressings,Dairy,Cheese
+"Cheese, pasturized processed, American, lowfat",Dairy,Cheese
+Cheese NFS,Dairy,Cheese
+"Cheese, Mexican, blend, reduced fat",Dairy,Cheese
+Soymilk,Dairy,Soymilk
+"Soymilk (all flavors), unsweetened, added calcium, vitamins A and D",Dairy,Soymilk
+Eggs,Protein Foods,Eggs
+"Egg, whole, cooked, hard-boiled",Protein Foods,Eggs
+Anchovy,Protein Foods,High Omega-3 Fish
+"Anchovy, European, canned in oil, drained",Protein Foods,High Omega-3 Fish
+Herring,Protein Foods,High Omega-3 Fish
+"Herring, Atlantic, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Mackerel,Protein Foods,High Omega-3 Fish
+"Mackerel, Atlantic, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Salmon,Protein Foods,High Omega-3 Fish
+"Fish, salmon, Atlantic, farmed, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Sardines,Protein Foods,High Omega-3 Fish
+"Sardine, Atlantic, canned in oil, drained with bone",Protein Foods,High Omega-3 Fish
+Sea bass,Protein Foods,High Omega-3 Fish
+"Sea bass, mixed species, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Swordfish,Protein Foods,High Omega-3 Fish
+"Swordfish, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Trout,Protein Foods,High Omega-3 Fish
+"Trout, rainbow, farmed, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Roe,Protein Foods,High Omega-3 Fish
+"Roe, mixed species, cooked dry heat",Protein Foods,High Omega-3 Fish
+Mussels,Protein Foods,High Omega-3 Fish
+"Mussel, blue, cooked, moist heat",Protein Foods,High Omega-3 Fish
+Tuna-high Omega 3,Protein Foods,High Omega-3 Fish
+"Tuna, white, canned in water, drained solids",Protein Foods,High Omega-3 Fish
+Shark,Protein Foods,High Omega-3 Fish
+"Shark, mixed species, raw",Protein Foods,High Omega-3 Fish
+Smelt,Protein Foods,High Omega-3 Fish
+"Smelt, rainbow, cooked, dry heat",Protein Foods,High Omega-3 Fish
+Shrimp,Protein Foods,Low Omega-3 Fish
+"Shrimp, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Unknown Fish,Protein Foods,Low Omega-3 Fish
+"Fish, pollock, Atlantic, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Fish sticks,Protein Foods,Low Omega-3 Fish
+"Fish, pollock, Atlantic, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Restructured fish,Protein Foods,Low Omega-3 Fish
+"Fish, pollock, Atlantic, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Carp,Protein Foods,Low Omega-3 Fish
+"Carp, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Catfish,Protein Foods,Low Omega-3 Fish
+"Catfish, channel, farmed, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Cod,Protein Foods,Low Omega-3 Fish
+"Cod, Pacific, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Croaker,Protein Foods,Low Omega-3 Fish
+"Croaker, Atlantic, raw",Protein Foods,Low Omega-3 Fish
+Tilapia,Protein Foods,Low Omega-3 Fish
+"Tilapia, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Flounder,Protein Foods,Low Omega-3 Fish
+"Flatfish (flounder and sole), cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Haddock,Protein Foods,Low Omega-3 Fish
+"Haddock, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Mullet,Protein Foods,Low Omega-3 Fish
+"Mullet, striped, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Perch,Protein Foods,Low Omega-3 Fish
+"Ocean perch, Atlantic, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Pike,Protein Foods,Low Omega-3 Fish
+"Pike, northern, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Pompano*,Protein Foods,Low Omega-3 Fish
+"Pompano, Florida, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Porgy,Protein Foods,Low Omega-3 Fish
+"sheepshead, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Tuna-low 0mega3,Protein Foods,Low Omega-3 Fish
+"Tuna, light, canned in water, drained solids",Protein Foods,Low Omega-3 Fish
+Whiting,Protein Foods,Low Omega-3 Fish
+"Fish, whiting, mixed species, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Frog,Protein Foods,Low Omega-3 Fish
+"Frog legs, raw",Protein Foods,Low Omega-3 Fish
+Octopus/squid,Protein Foods,Low Omega-3 Fish
+"Octopus, common, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Clams,Protein Foods,Low Omega-3 Fish
+"Clams, mixed species, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Crab,Protein Foods,Low Omega-3 Fish
+"Crab, blue, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Lobster,Protein Foods,Low Omega-3 Fish
+"Lobster, northern, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Oysters,Protein Foods,Low Omega-3 Fish
+"Mollusks, oyster, Pacific, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Scallops,Protein Foods,Low Omega-3 Fish
+"Scallops (bay and sea), cooked, steamed",Protein Foods,Low Omega-3 Fish
+Snapper,Protein Foods,Low Omega-3 Fish
+"Snapper, mixed species, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Halibut,Protein Foods,Low Omega-3 Fish
+"Halibut, Atlantic and Pacific, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Eel,Protein Foods,Low Omega-3 Fish
+"Eel, mixed species, cooked, dry heat",Protein Foods,Low Omega-3 Fish
+Turtle/terrapin,Protein Foods,Low Omega-3 Fish
+"Turtle, green, raw",Protein Foods,Low Omega-3 Fish
+Crayfish,Protein Foods,Low Omega-3 Fish
+"Crayfish, mixed species, wild, cooked, moist heat",Protein Foods,Low Omega-3 Fish
+Snails,Protein Foods,Low Omega-3 Fish
+"Snail, raw",Protein Foods,Low Omega-3 Fish
+Turbot,Protein Foods,Low Omega-3 Fish
+"Flatfish (flounder and sole), cooked, dry heat",Protein Foods,Low Omega-3 Fish
+"Almonds, dry roasted, without salt",Protein Foods,Nuts and Seeds
+Brazil nuts,Protein Foods,Nuts and Seeds
+"Brazilnuts, dried, unblanched",Protein Foods,Nuts and Seeds
+Cashew nuts,Protein Foods,Nuts and Seeds
+"Cashew nuts, dry roasted, without salt",Protein Foods,Nuts and Seeds
+Chestnuts,Protein Foods,Nuts and Seeds
+"Chestnuts, European, roasted",Protein Foods,Nuts and Seeds
+Filberts/hazelnuts,Protein Foods,Nuts and Seeds
+Hazelnuts or filberts,Protein Foods,Nuts and Seeds
+Flax seeds,Protein Foods,Nuts and Seeds
+Flaxseed,Protein Foods,Nuts and Seeds
+Macadamia nuts,Protein Foods,Nuts and Seeds
+"Macadamia nuts, dry roasted, without salt",Protein Foods,Nuts and Seeds
+Mixed nuts,Protein Foods,Nuts and Seeds
+"Mixed nuts, dry roasted, with peanuts, without salt",Protein Foods,Nuts and Seeds
+Peanut butter,Protein Foods,Nuts and Seeds
+"Peanut butter, smooth style, with salt",Protein Foods,Nuts and Seeds
+Peanuts,Protein Foods,Nuts and Seeds
+"Peanuts, all types, dry-roasted, without salt",Protein Foods,Nuts and Seeds
+Pecans,Protein Foods,Nuts and Seeds
+Pecans,Protein Foods,Nuts and Seeds
+Pine nuts,Protein Foods,Nuts and Seeds
+"Pine nuts, dried",Protein Foods,Nuts and Seeds
+Pistachio nuts,Protein Foods,Nuts and Seeds
+"Pistachio nuts, dry roasted, without salt",Protein Foods,Nuts and Seeds
+Pumpkin/squash seed kernels,Protein Foods,Nuts and Seeds
+"Pumpkin and squash seed kernels,roasted, without salt",Protein Foods,Nuts and Seeds
+Sesame seeds,Protein Foods,Nuts and Seeds
+"Sesame seed kernels, toasted, without salt (decorticated)",Protein Foods,Nuts and Seeds
+Sunflower seeds,Protein Foods,Nuts and Seeds
+"Sunflower seed kernels, dry roasted, without salt",Protein Foods,Nuts and Seeds
+Walnuts,Protein Foods,Nuts and Seeds
+"Walnuts, English",Protein Foods,Nuts and Seeds
+"Chicken roll, light meat",Protein Foods,Poultry
+Chicken,Protein Foods,Poultry
+"Chicken, meat only, roasted",Protein Foods,Poultry
+Turkey,Protein Foods,Poultry
+"Turkey, meat only, roasted",Protein Foods,Poultry
+Beef,Protein Foods,Red Meats
+"Beef, round, eye of round, separable lean only, roasted",Protein Foods,Red Meats
+"Beef, ground",Protein Foods,Red Meats
+"Ground beef, 95% lean, patty, pan-broiled",Protein Foods,Red Meats
+Game meat,Protein Foods,Red Meats
+"Deer, loin, lean only, steak, brld",Protein Foods,Red Meats
+Lamb,Protein Foods,Red Meats
+"Lamb, domestic, leg, separable lean only, choice, roasted",Protein Foods,Red Meats
+Liver,Protein Foods,Red Meats
+"Beef, liver, pan-fried",Protein Foods,Red Meats
+"Luncheon meats, beef",Protein Foods,Red Meats
+"Frankfurter, beef, low fat",Protein Foods,Red Meats
+"Luncheon meats, pork",Protein Foods,Red Meats
+"Ham, sliced, extra lean",Protein Foods,Red Meats
+"Pork, cured",Protein Foods,Red Meats
+"Pork, cured, ham, whole, separable lean only, roasted",Protein Foods,Red Meats
+"Pork, fresh",Protein Foods,Red Meats
+"Pork, fresh, sirloin chops, boneless, lean, broiled",Protein Foods,Red Meats
+Sausage,Protein Foods,Red Meats
+"Turkey sausage, reduced fat, brown and serve, cooked",Protein Foods,Red Meats
+Tofu,Protein Foods,Processed Soy Products
+"Tofu, firm, prepared with calcium sulfate and magnesium",Protein Foods,Processed Soy Products
+Processed Soy,Protein Foods,Processed Soy Products
+Soy protein isolate,Protein Foods,Processed Soy Products
+Unhydrogenated soy oil 53%,Oils and Solid Fats,Oils
+Canola oil 22%,Oils and Solid Fats,Oils
+Olive oil 4%,Oils and Solid Fats,Oils
+Corn oil 10%,Oils and Solid Fats,Oils
+Sunflower oil 3%,Oils and Solid Fats,Oils
+Cottonseed oil 4%,Oils and Solid Fats,Oils
+Peanut oil 1%,Oils and Solid Fats,Oils
+Safflower oil 0%,Oils and Solid Fats,Oils
+Margarine (1/2 total) 3%,Oils and Solid Fats,Oils
+"Oil, soybean, salad or cooking",Oils and Solid Fats,Oils
+"Oil, canola",Oils and Solid Fats,Oils
+"Oil, olive, salad or cooking",Oils and Solid Fats,Oils
+"Oil, corn, industrial and retail, all purpose salad or cooking",Oils and Solid Fats,Oils
+"Oil, sunflower, linoleic (approx. 65%) Oil, cottonseed, salad or cooking",Oils and Solid Fats,Oils
+"Oil, peanut, salad or cooking",Oils and Solid Fats,Oils
+"Oil, safflower, salad or cooking, linoleic (over 70%) Margarine-like, veg. oil spread,",Oils and Solid Fats,Oils
+Palm oil,Oils and Solid Fats,Solid Fats
+Palm Kernel oil Coconut oil,Oils and Solid Fats,Solid Fats
+Dairy fat (incl. butter) Pork fat (incl. lard) Vegetable shortening Beef fat (incl. tallow) Hydrogentated soy oil,Oils and Solid Fats,Solid Fats
+Palm oil,Oils and Solid Fats,Solid Fats
+"Palm kernel oil Coconut oil Butter, salted Lard",Oils and Solid Fats,Solid Fats
+"Vegetable shortening,household,composite Beef fat (tallow)",Oils and Solid Fats,Solid Fats
+"Soybean oil, partially hydrogenated",Oils and Solid Fats,Solid Fats
+Margarine (1/2 total) 3%,Oils and Solid Fats,Solid Fats

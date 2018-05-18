@@ -12,6 +12,15 @@ finding no tools existing that met my needs, and wanting an end-to-end machine l
 meal maker. 
 
 ## Finding, Scraping and Cleaning Data
+### Acquisition
+I found data from four different sources: 
+#### USDA Composition of foods, raw, processed, prepared.
+* The USDA provides the 'Composition' data available via [ascii text files](https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/). They have a bizarre combination of '^' delimiter with '~' quotes seperator. The text files cover several different topics including several not relevant to this project. 
+#### USDA Branded Food Database
+* The USDA also provides an [online tool](https://ndb.nal.usda.gov/ndb/search/list) to search for 'branded foods'. It does not provide them in a downloadable csv but notes it may be available in Jan 2018. 
+#### 'Fat Secret' website
+#### 'Diet Facts' website
+### Processing and Cleaning
 
 ## Classifying Food Items
 ### Choosing a method

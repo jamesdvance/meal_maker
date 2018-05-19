@@ -26,6 +26,7 @@ I found data from four different sources. I found the flexibility of BeautifulSo
 ## Classifying Food Items
 ### Choosing a method
 ### An Online Food Corpus
+* The first 'food' corpus method was created by [querying](https://github.com/jamesdvance/meal_maker/blob/master/classifiers/food_classifiers/corpus/corpus_urls/food_related_warc_files.sql) the Common Crawl index using AWS's Athena query engine. The idea was to get a corpus of 70-80% food-relevant documents but only selecting web pages with highly relevant words in their url. This corpus can be used to train a Word2Vec model, or to build a document classifer should a bigger corpus dataset be needed
 ### A Word2Vec Vector
 
 ## Learning, Unsupervised

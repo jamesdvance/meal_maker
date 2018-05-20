@@ -20,14 +20,16 @@ I found data from four different sources. I found the flexibility of BeautifulSo
 * The USDA also provides an [online tool](https://ndb.nal.usda.gov/ndb/search/list) to search for 'branded foods'. It does not provide them in a downloadable csv but notes it may be available in Jan 2018. 
 * One challenge of the branded food tool was that only a subset of nutrients was provided for each first. The first [script](https://github.com/jamesdvance/meal_maker/blob/master/data/aquisition/usda_branded_foods/find_all_nutrient_values.py) finds all possible nutrient values, which could then be hard-coded into the [full scraper](https://github.com/jamesdvance/meal_maker/blob/master/data/aquisition/usda_branded_foods/get_all_branded_nut_info.py). 
 #### 'Fat Secret' website
-* Fat Secret held a wide variety of food categories, allowing for many scrapers.(https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret)
+* Fat Secret held a wide variety of food categories, allowing for many [scrapers.](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret)
 #### 'Diet Facts' website
-* Diet Facts held a comprehensive [restaurant](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret) as well as [branded product](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret) 
+* Diet Facts held a comprehensive [restaurant](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret) dataset as well as [branded products.](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret) 
 ### Processing and Cleaning
 * Reformatting individual datasets
+  * 
 * Creating a PostgreSQL database 
+  * Uploading and inserting nutrition facts
 * Creating one master table
-* Reformatting serving sizes
+* Obtaining serving sizes in csv
 
 ## Unsupervised Learning
 ### Building Nutrient Clusters

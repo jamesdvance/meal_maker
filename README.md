@@ -22,7 +22,7 @@ I found data from four different sources. I found the flexibility of BeautifulSo
 #### 'Fat Secret' website
 * Fat Secret held a wide variety of food categories, allowing for many [scrapers.](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret)
 #### 'Diet Facts' website
-* Diet Facts held a comprehensive [restaurant](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret) dataset as well as [branded products.](https://github.com/jamesdvance/meal_maker/tree/master/data/aquisition/fat_secret) 
+* Diet Facts held a comprehensive [restaurant](https://github.com/jamesdvance/meal_maker/blob/master/data/aquisition/diet_facts/scraping_diet_facts_restaurants_w_nan.py) dataset as well as [branded products.]((https://github.com/jamesdvance/meal_maker/blob/master/data/aquisition/diet_facts/scraping_diet_facts_brands_w_nan.py) 
 ### Processing and Cleaning
 * Reformatting individual datasets
   * 

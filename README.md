@@ -24,12 +24,10 @@ I found data from four different sources. I found the flexibility of BeautifulSo
 #### 'Diet Facts' website
 * Diet Facts held a comprehensive [restaurant](https://github.com/jamesdvance/meal_maker/blob/master/data/aquisition/diet_facts/scraping_diet_facts_restaurants_w_nan.py) dataset as well as [branded products.](https://github.com/jamesdvance/meal_maker/blob/master/data/aquisition/diet_facts/scraping_diet_facts_brands_w_nan.py) 
 ### Processing and Cleaning
-* Reformatting individual datasets
-  * 
-* Creating a PostgreSQL database 
-  * Uploading and inserting nutrition facts
-* Creating one master table
-* Obtaining serving sizes in csv
+* Due to various encoding differences, each raw scraped file required some [cleaning.](https://github.com/jamesdvance/meal_maker/tree/master/data/cleaning_and_processing/cleaning)
+* Each dataset was loaded into a PostgreSQL (database.)[https://github.com/jamesdvance/meal_maker/tree/master/data/database]. The database is hosted on Amazon RDS. 
+* One master [table](https://github.com/jamesdvance/meal_maker/blob/master/data/database/common_nutrition_migrate_scripts.sql) was created combining each of the various data sources. Since most vitamins and minerals come as percentages of Daily Value, they were each converted to discrete values.
+* After pulling the common master table into a CSV, the serving sizes were transformed into measures and units via a post-processing [script.](https://github.com/jamesdvance/meal_maker/blob/master/data/cleaning_and_processing/post_processing/processing_raw_serving_size.py)
 
 ## Unsupervised Learning
 ### Building Nutrient Clusters

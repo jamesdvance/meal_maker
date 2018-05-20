@@ -27,6 +27,8 @@ I found data from four different sources. I found the flexibility of BeautifulSo
 * One master [table](https://github.com/jamesdvance/meal_maker/blob/master/data/database/common_nutrition_migrate_scripts.sql) was created combining each of the various data sources. Since most vitamins and minerals come as percentages of Daily Value, they were each converted to discrete values.
 * After pulling the common master table into a CSV, the serving sizes were transformed into measures and units via a post-processing [script.](https://github.com/jamesdvance/meal_maker/blob/master/data/cleaning_and_processing/post_processing/processing_raw_serving_size.py)
 
+## Exploratory Visualization
+
 ## Unsupervised Learning
 ### Building Nutrient Clusters
 * K-Means (embedd elbow curve)

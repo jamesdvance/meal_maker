@@ -35,7 +35,12 @@ def token_dict_maker(df, text_col_name='food_description'):
     return df, token_dict
 
 
+def bigram_dict_maker(df, text_col_name='food_description'):
+ 	 bigram_dict = []
+     return df, bigram_dict
 
+
+# Can enter a token_dict filtered by n total items
 def one_hot_encoder(df, token_dict):
     fd_key_df = df[['food_key','food_description']]
     for key, value in token_dict.items():

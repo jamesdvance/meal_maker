@@ -1,5 +1,6 @@
 
 
+
 CREATE TABLE diet_facts_brands (
   brand_name varchar(55), /* Longest current length is 42 */
   calcium_perc numeric(10,2),/* post-processing to strip out %, < and long text (bugs)*/

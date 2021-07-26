@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T21:39:11.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="lGoqHM0xYb9qk3hQm15V" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T01:20:23.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="l4uZ0tjEKKxkG2FVlIgg" version="14.9.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -68,28 +68,43 @@
           <mxGeometry x="350" y="520" width="470" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-22" value="Mary created her plan for today!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="365" height="50" as="geometry" />
+          <mxGeometry x="440" y="385" width="365" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-27" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="380" width="30" height="30" as="geometry" />
+          <mxGeometry x="390" y="395" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-29" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="100" height="60" as="geometry" />
+          <mxGeometry x="380" y="450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-30" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="480" y="440" width="105" height="60" as="geometry" />
+          <mxGeometry x="480" y="450" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-31" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="585" y="440" width="105" height="60" as="geometry" />
+          <mxGeometry x="585" y="450" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-32" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="690" y="440" width="95" height="60" as="geometry" />
+          <mxGeometry x="690" y="450" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-33" value="Copy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ri4otbQqNxBpemyUNb08-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-63-128.png;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="395" width="30" height="30" as="geometry" />
+          <mxGeometry x="740" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri4otbQqNxBpemyUNb08-35" value="Breakfast" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri4otbQqNxBpemyUNb08-36" value="Lunch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri4otbQqNxBpemyUNb08-37" value="Dinner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri4otbQqNxBpemyUNb08-39" value="Snack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri4otbQqNxBpemyUNb08-40" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="470" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
